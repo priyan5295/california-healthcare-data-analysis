@@ -3,13 +3,9 @@
 
 📌 Project Overview
 
-Analysis of 3,294 licensed healthcare facilities across California from 2022 to January 2026 using Python. This project covers data loading, cleaning, statistical analysis, 12 visualizations, and predictive trend analysis.
+Analysis of 3,294 licensed healthcare facilities across California from 2022 to January 2026 using Python, covering data loading, cleaning, statistical analysis, 12 visualizations, and predictive trend analysis.
 
-This project analyzes licensed healthcare facilities in California to understand:
-• Geographic distribution
-• Facility types
-• Bed capacity
-• Service availability
+This project analyzes licensed healthcare facilities in California to understand geographic distribution, facility types, bed capacity, and service availability.
 
 The analysis focuses on facilities licensed between January 2022 and January 2026, enabling trend analysis and decision-making for healthcare planning.
 
@@ -70,15 +66,14 @@ Healthcare planners and policymakers need to:
 | year           | 2022→946, 2023→943, 2024→883, 2025→519 | Enable time-series trend analysis                  |
 
 💡 Key Findings
-•	LA county = 72.1% of all facilities
-•	96.7% facilities have no beds
-•	Only 10 ER facilities exist
-•	Licensing declining 946→519 (2022→2025)
-•	Predicted: 487 (2026), 353 (2027)
-•	Mean beds 53.14 vs Median 17.50 — bed inequality
+LA county = 72.1% of all facilities
+96.7% facilities have no beds
+Only 10 ER facilities exist
+Licensing declining 946→519 (2022→2025)
+Predicted: 487 (2026), 353 (2027)
+Mean beds 53.14 vs Median 17.50 — bed inequality
 
 🔍 What I Discovered
-
 📍 Geographic Concentration: Los Angeles county alone holds 72.1% of all California licensed healthcare facilities — creating a severe geographic imbalance across the state.
 🏠 Outpatient Dominance: 96.7% of facilities have no beds — confirming California's healthcare model is predominantly home-based and outpatient, not hospital-based.
 🚨 Emergency Care Gap: Only 10 facilities out of 3,294 offer emergency services — a critical gap in California's healthcare network.
